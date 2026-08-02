@@ -22,37 +22,37 @@ Employee Service Portal → Record Producer → Laptop Request Form Table → Fl
 ServiceNow-Laptop-Request-System/
 │
 └── SLRS/
-    │
-    ├── 1. Ideation Phase/
-    │   ├── Empathy_Map_Canvas.pdf
-    │   ├── Define_Problem_Statements.pdf
-    │   └── Brainstorm_Idea_Prioritization.pdf
-    │
-    ├── 2. Requirement Analysis/
-    │   ├── Customer_Journey_Map.pdf
-    │   ├── Data_Flow_Diagram_and_User_Stories.pdf
-    │   ├── Solution_Requirements.pdf
-    │   └── Technology_Stack.pdf
-    │
-    ├── 3. Project Design Phase/
-    │   ├── Problem_Solution_Fit_Canvas.pdf
-    │   ├── Proposed_Solution.pdf
-    │   └── Solution_Architecture.pdf
-    │
-    ├── 4. Project Planning Phase/
-    │   └── Project_Planning.pdf
-    │
-    ├── 5. Project Development Phase/
-    │   ├── Functional_Performance_Testing.pdf
-    │   ├── Platform_Automation_Summary.pdf
-    │   ├── User_Acceptance_Testing_Template.pdf
-    │   └── UAT_Execution_Report.pdf
-    │
-    ├── 6. Project Documentation/
-    │   └── Final_Project_Report.pdf
-    │
-    └── 7. Project Demonstration/
-        └── Project_Demonstration.pdf
+│
+├── 1. Ideation Phase/
+│ ├── Empathy_Map_Canvas.pdf
+│ ├── Define_Problem_Statements.pdf
+│ └── Brainstorm_Idea_Prioritization.pdf
+│
+├── 2. Requirement Analysis/
+│ ├── Customer_Journey_Map.pdf
+│ ├── Data_Flow_Diagram_and_User_Stories.pdf
+│ ├── Solution_Requirements.pdf
+│ └── Technology_Stack.pdf
+│
+├── 3. Project Design Phase/
+│ ├── Problem_Solution_Fit_Canvas.pdf
+│ ├── Proposed_Solution.pdf
+│ └── Solution_Architecture.pdf
+│
+├── 4. Project Planning Phase/
+│ └── Project_Planning.pdf
+│
+├── 5. Project Development Phase/
+│ ├── Functional_Performance_Testing.pdf
+│ ├── Platform_Automation_Summary.pdf
+│ ├── User_Acceptance_Testing_Template.pdf
+│ └── UAT_Execution_Report.pdf
+│
+├── 6. Project Documentation/
+│ └── Final_Project_Report.pdf
+│
+└── 7. Project Demonstration/
+└── Project_Demonstration.pdf
 🛠️ Tech Stack
 Layer	Technology
 Front-end	ServiceNow Service Portal (Record Producer, Catalog Item)
